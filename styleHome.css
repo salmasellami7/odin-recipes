@@ -1,0 +1,16 @@
+h1{
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 35px;
+}
+.chef{
+  width: 300px;
+  height: auto;
+}
+.listItem{
+  color: rgb(152, 82, 82);
+  margin:20px;
+}
+li{
+  margin: 2px;
+}

@@ -1,1 +1,2 @@
 # odin-recipes
+"This project is a simple webpage that provides you with some delicious and easy recipes. I used two languages, HTML and CSS, to build it and practiced all that I have learned in the previous sections to maintain these skills."
